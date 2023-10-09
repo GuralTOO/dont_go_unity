@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958895701635",
+    "project_id": "don-t-go",
+    "storage_bucket": "don-t-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958895701635:android:1fdffbda82ed84b33665b6",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Mappy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958895701635-801mokl6ekoj2a2pu37rer4a561r6du7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0grb4Y7ikNOlWauNv3PmNTKJimleZyk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958895701635-801mokl6ekoj2a2pu37rer4a561r6du7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

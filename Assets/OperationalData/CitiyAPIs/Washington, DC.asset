@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57d9c07fa72a09444b29635bb16d7ca8, type: 3}
+  m_Name: Washington, DC
+  m_EditorClassIdentifier: 
+  city_center:
+    lat: 38.89511
+    lon: -77.03637
+  company_link:
+  - company: Bird
+    link: https://mds.bird.co/gbfs/washington-dc/free_bike_status.json
+  - company: CapitalBikeShare
+    link: https://gbfs.capitalbikeshare.com/gbfs/en/free_bike_status.json
+  - company: Lyft
+    link: https://s3.amazonaws.com/lyft-lastmile-production-iad/lbs/dca/free_bike_status.json
+  - company: Lime
+    link: https://data.lime.bike/api/partners/v1/gbfs/washington_dc/free_bike_status
+  - company: Revel
+    link: https://gbfs.gorevel.com/gbfs/v2/washingtondc/en/free_bike_status.json
+  - company: Spin
+    link: https://gbfs.spin.pm/api/gbfs/v1/washington_dc/free_bike_status
+  - company: Razor
+    link: http://razorapi.net/api/v1/gbfs/Washington%20DC/free_bike_status.json
+  - company: Helbiz
+    link: https://api.helbiz.com/admin/reporting/washington/gbfs/free_bike_status.json
